@@ -2,7 +2,7 @@
 
 # Bookshelf
 > Simple Bookshelf App created for Dicoding's Belajar Front-End Web Development untuk Pemula final submission.
-> Live demo [_here_](https://www.example.com). 
+> Live demo [_here_](https://nomenklatur.github.io/bookshelfapp/). 
 
 
 
